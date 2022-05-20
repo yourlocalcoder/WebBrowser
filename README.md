@@ -1,5 +1,5 @@
 # Boogle Brome 
-## Changelog v0.74 (May 19th, 2022)  
+## Changelog v0.86 (May 20th, 2022)  
 New redesigned settings menu
 Fixed more bugs
   
